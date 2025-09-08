@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @mabel182 (Mabel Contreras Valenzuela)
-- 👀 I’m interested in DevOps - DevSecOps - Open Source - K8s
-- 🌱 I’m currently learning Kubernetes && Fundamentos Ciberseguridad in Desafío Latam
-- Junior DevOps Consultant in Andes Digital
+- 👋 Hola! Soy @mabel182 (Mabel Contreras Valenzuela)
+- 👀 Estoy interesada DevOps - DevSecOps - Open Source - K8s
+- 🌱 Actualmente estudiando Fundamentos Ciberseguridad en Desafío Latam
+- 💻 Junior DevOps Consultant in Andes Digital
+- 📬 mabel.contreras182@gmail.com
 
-<!---
-mabel182/mabel182 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
